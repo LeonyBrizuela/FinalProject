@@ -10,6 +10,7 @@ We created a simple Bank Management System that can run on the phone.
 • Download Java N-IDE in playstore
 
 • Project name: BankSystem
+  
   Package name: BankJava
 
   Main class: JavaBank
