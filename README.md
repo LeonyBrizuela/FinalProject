@@ -15,7 +15,7 @@ We created a simple Bank Management System that can run on the phone.
 
   Main class: JavaBank
 
-• Copy the program
+• Copy the program and paste it into Java N-IDE
 
 • Touch the triangle at the top
 
